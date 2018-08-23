@@ -3,7 +3,7 @@
 *
 * IoT_OnAir_Lab_Silesian University of Technology
 * 22 Aug 2018
-* By Ritankar Sahu & Rafa³ Potempa
+* By Ritankar Sahu & RafaÂ³ Potempa
 *
 */
 
