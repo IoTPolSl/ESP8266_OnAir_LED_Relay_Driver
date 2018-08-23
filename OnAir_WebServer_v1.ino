@@ -3,15 +3,15 @@
 *
 * IoT_OnAir_Lab_Silesian University of Technology
 * 22 Aug 2018
-* By Ritankar Sahu & Rafa³ Potempa
+* By Ritankar Sahu & RafaÂ³ Potempa
 *
 */
 
 #include <ESP8266WiFi.h> 
 #include <ESP8266WebServer.h> 
 
-const char* ssid = "alcatel IDOL 4";
-const char* password = "123123123";
+const char* ssid = "WiFi Name";
+const char* password = "password";
 
 ESP8266WebServer server(80);
 
